@@ -9,4 +9,4 @@ This repository contains code to reproduce the experiments in the paper"Diet4Dis
 
 /fine-tuning contains the code for instruction tuning.
 
-/knowledge-base contains the knowledge base necessary for the experiments.
+/knowledge_base contains the knowledge base necessary for the experiments.
